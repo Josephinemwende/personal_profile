@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+#data-bio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#data-bio p{
+    padding: 5px;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+.goals{
+    padding: 20px;
+    width: 100%;
+    
+}
+h3{
+    text-align: center;
+}
+
+.goals li{
+ font-style: italic;
+ font-size: 17px;
+}
+h4{
+    padding: 10px;
+    text-align: center;
+}
